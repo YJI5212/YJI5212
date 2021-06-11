@@ -1,8 +1,8 @@
-- 👋 Hi, I’m YI
-- I’m a student of Faculty of Engineering at University of Tokyo.  
-- I'm studying about mechanics, robotics and CS.
+# 👋 Hi, I’m YI
+## I’m a student of Faculty of Engineering at University of Tokyo.  
+I'm studying about mechanics, robotics and CS.
 
-- In addition, I'm a student of 42Tokyo(1st gen).
+## In addition, I'm a student of 42Tokyo(1st gen).
 
 
 <!---
