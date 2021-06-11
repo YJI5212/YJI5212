@@ -8,9 +8,9 @@ https://www.t.u-tokyo.ac.jp/foee/index.html
 
 ## In addition, I'm a student of 42Tokyo.
 ![スクリーンショット 2021-06-11 13 00 05](https://user-images.githubusercontent.com/60774986/121630240-bdf97400-cab7-11eb-970d-3d8f5141db6d.png)  
-- 42 (Global)
+- 42 (Global)  
 https://www.42.fr/  
-- 42 Tokyo
+- 42 Tokyo  
 https://42tokyo.jp/  
 
 <!---
