@@ -1,4 +1,13 @@
-# 👋 Hi, I’m YI
+# 👋 Hi, I’m YI  
+
+## I'm a student of 42Tokyo.
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yoinoue?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)  
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yoinoue?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)  
+- 42 (Global)  
+https://www.42.fr/  
+- 42 Tokyo  
+https://42tokyo.jp/  
+
 ## I’m a student of Faculty of Engineering at University of Tokyo.  
 ### I'm studying about mechanics, robotics and CS.
 - University of Tokyo  
@@ -7,15 +16,6 @@ https://www.u-tokyo.ac.jp/en/index.html
 https://www.t.u-tokyo.ac.jp/foee/index.html  
 - Go Grobal Gateway(International Program, Certified)  
 https://www.u-tokyo.ac.jp/adm/go-gateway/en/index.html
-  
-  
-## In addition, I'm a student of 42Tokyo.
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yoinoue?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)  
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yoinoue?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)  
-- 42 (Global)  
-https://www.42.fr/  
-- 42 Tokyo  
-https://42tokyo.jp/  
 
 ## Info
 <a href="https://github.com/anuraghazra/github-readme-stats">
