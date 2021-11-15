@@ -9,7 +9,6 @@ https://www.42.fr/
 https://42tokyo.jp/  
 
 ## I’m a student of Faculty of Engineering at University of Tokyo.  
-### I'm studying about mechanics, robotics and CS.
 - University of Tokyo  
 https://www.u-tokyo.ac.jp/en/index.html  
 - Faculty of Engineering  
