@@ -8,7 +8,7 @@ https://www.42.fr/
 - 42 Tokyo  
 https://42tokyo.jp/  
 
-## I’m a student of Faculty of Engineering at University of Tokyo.  
+## I study in Engineering at University of Tokyo.  
 - University of Tokyo  
 https://www.u-tokyo.ac.jp/en/index.html  
 - Faculty of Engineering  
