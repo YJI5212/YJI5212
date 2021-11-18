@@ -8,13 +8,6 @@ https://www.42.fr/
 - 42 Tokyo  
 https://42tokyo.jp/  
 
-## I study Engineering at University of Tokyo.  
-- University of Tokyo  
-https://www.u-tokyo.ac.jp/en/index.html  
-- Faculty of Engineering  
-https://www.t.u-tokyo.ac.jp/foee/index.html  
-- Go Grobal Gateway(International Program, Certified)  
-https://www.u-tokyo.ac.jp/adm/go-gateway/en/index.html
 
 ## Info
 <a href="https://github.com/anuraghazra/github-readme-stats">
