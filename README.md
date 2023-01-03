@@ -1,5 +1,3 @@
-# I’m YoInoue  
-
 ![](https://komarev.com/ghpvc/?username=YJI5212)
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
