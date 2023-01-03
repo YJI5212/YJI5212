@@ -1,4 +1,7 @@
-# 👋 Hi, I’m YI  
+# I’m YoInoue 🧠
+
+![](https://komarev.com/ghpvc/?username=YJI5212)  
+
 
 ## I'm a student of 42Tokyo.
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/yoinoue?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)  
