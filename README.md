@@ -45,22 +45,6 @@ https://42tokyo.jp/
 ## University of Tokyo  
 
 
-## Info
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://raw.githubusercontent.com/YJI5212/YJI5212/main/profile-summary-card-output/2077/0-profile-details.svg" height="220px" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YJI5212&show_icons=true%20&count_private=true&theme=radical" height="180px"/>
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YJI5212&layout=compact&hide=jupyter%20notebook,Hack,Scilab&langs_count=15&theme=radical" height="180px" />
-</a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=YJI5212&theme=monokai&no-bg=true&no-frame=true" height="180px"/>
-</a>
-
-
 <!---
 YJI5212/YJI5212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
