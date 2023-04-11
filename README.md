@@ -31,7 +31,7 @@
 
 <ins> University of Tokyo → 42Tokyo → SoftBank AI R&D(intern) → TURING Inc.(nextcore,intern) </ins>  
   
-## TURING Inc.  
+## Turing Inc.  
 ![TURING Inc. LOGO](https://user-images.githubusercontent.com/60774986/210297224-db55b079-90a5-4e2e-ac01-5e4a0ca5384e.svg)
 - Official HP  
   https://www.turing-motors.com/  
