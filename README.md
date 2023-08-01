@@ -36,14 +36,11 @@
 - Official HP  
   https://www.turing-motors.com/  
 
-## 42Tokyo  
+### 42Tokyo  
 - 42 (Global)  
 https://www.42.fr/  
 - 42 Tokyo  
 https://42tokyo.jp/  
-
-## University of Tokyo  
-
 
 <!---
 YJI5212/YJI5212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
