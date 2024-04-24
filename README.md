@@ -23,16 +23,16 @@ fun main() {
 #include <string>
 #include <vector>
 
-void what_did(const std::vector<std::string>& accomplishment) {
+void what_did(const std::vector<std::string>& accomplishments) {
   for (const auto& accomplishment : accomplishments) {
-    std::cout << accomplishment << std::endl;
+      std::cout << accomplishment << std::endl;
   }
 }
 
 int main() {
   std::vector<std::string> accomplishments = {
-    "Enabled operating existing vehicles through software by analyzing communications between in-vehicle computers.",
-    "Created a driving data collection platform.",
+      "Enabled operating existing vehicles through software by analyzing communications between in-vehicle computers.",
+      "Created a driving data collection platform.",
   };
 
   what_did(accomplishments);
